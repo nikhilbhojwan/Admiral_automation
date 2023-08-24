@@ -1,2 +1,7 @@
 # Admiral_automation
-I created a TDD Based Maven project using Selenium, TestNG and BrowerStack where I automated and segregated functionalities in separate classes where different Login Scenarios, Attendance Marking, TimeSheet filling, Editing Time Sheet,  and WFH details were automated.
+* To run this project, you need to install java 11.0 , maven and IntelliJ IDE on your sytem.
+* After Installing all of the above mentioned programs, set up environment variable for java and maven.
+* Open IntelliJ IDE.
+* Click on file > open > select this downloaded project from project location.
+* Now directly run any of the classes from WindowsTest.java, ios.java, Android.java
+ 
